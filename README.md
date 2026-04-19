@@ -1,0 +1,1 @@
+A Carbon Markets Portfolio Tracker - Excel workbook simulating TNC-style portfolio management for nature-based carbon projects. Covers project registry, credit issuance tracking, KPI dashboard, risk and milestone tracking and donor reporting.
